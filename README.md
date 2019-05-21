@@ -1,5 +1,5 @@
 # CIKM2018-AEHE
-data: https://pan.baidu.com/s/1EiPmrDMugIwC3tRBoYLf6Q  password：7hu7 
+data & code: https://pan.baidu.com/s/1EiPmrDMugIwC3tRBoYLf6Q  password：7hu7 
 </br>AEHE.py is the main function  
 </br>paper:Abnormal Event Detection via Heterogeneous Information Network Embedding  
 # contact
