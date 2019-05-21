@@ -1,5 +1,22 @@
 # CIKM2018-AEHE
-data: https://pan.baidu.com/s/1LlW3bKGDT5jdeIHAiFSTig  
+data: https://pan.baidu.com/s/1EiPmrDMugIwC3tRBoYLf6Q  password：7hu7 
 </br>AEHE.py is the main function  
 </br>paper:Abnormal Event Detection via Heterogeneous Information Network Embedding  
-</br>http://delivery.acm.org/10.1145/3270000/3269281/p1483-fan.pdf?ip=59.64.129.124&id=3269281&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E66A15327C2E204FC%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545373645_96ea421e77cc3b849ee532504e76cec4
+# contact
+fanshaohua92@163.com
+
+# Reference
+@inproceedings{
+
+> author = {Shaohua Fan, Chuan Shi, and Xiao Wang},
+ 
+> title = {Abnormal Event Detection via Heterogeneous Information Network Embedding},
+ 
+> booktitle = {Proceedings of the 27th ACM International Conference on Information and Knowledge Management},
+ 
+> pages={1483--1486},
+> year = {2018}, 
+> publisher = {ACM},
+> address = {Torino, Italy},
+ 
+}
