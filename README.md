@@ -5,6 +5,12 @@ data & code: https://pan.baidu.com/s/1EiPmrDMugIwC3tRBoYLf6Q  password：7hu7
 # contact
 fanshaohua92@163.com
 
+# Requirements
+* tensorflow==1.4.1
+* scipy==1.2.1
+* numpy==1.16.2
+* scikit_learn==0.21.1
+
 # Reference
 @inproceedings{
 
